@@ -16,6 +16,7 @@ export const Home = () => {
     alert('You denied the notification');
     }
   }
+  //Changed
 
     useEffect(()=>{
     console.log('first');
